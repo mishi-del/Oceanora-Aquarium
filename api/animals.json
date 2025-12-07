@@ -1,0 +1,417 @@
+[
+  {
+    "id": 1,
+    "name": "Clownfish",
+    "category": "Fish",
+    "image_url": "https://cdn.pixabay.com/photo/2016/06/13/10/06/clownfish-1453910_1280.jpg",
+    "description": "Bright orange with white stripes, clownfish live among sea anemones."
+  },
+  {
+    "id": 2,
+    "name": "Blue Tang",
+    "category": "Fish",
+    "image_url": "https://cdn.pixabay.com/photo/2016/03/29/16/53/blue-tang-1288727_1280.jpg",
+    "description": "Known for its deep blue color and oval body, made famous by 'Dory'."
+  },
+  {
+    "id": 3,
+    "name": "Dolphin",
+    "category": "Mammal",
+    "image_url": "https://cdn.pixabay.com/photo/2022/06/09/21/53/dolphin-7253357_1280.jpg",
+    "description": "Highly intelligent marine mammals known for their playful nature."
+  },
+  {
+    "id": 4,
+    "name": "Sea Turtle",
+    "category": "Reptile",
+    "image_url": "https://cdn.pixabay.com/photo/2022/04/15/07/25/green-turtle-7133765_1280.jpg",
+    "description": "Gentle swimmers that glide through oceans with grace and endurance."
+  },
+  {
+    "id": 5,
+    "name": "Octopus",
+    "category": "Cephalopod",
+    "image_url": "https://cdn.pixabay.com/photo/2013/02/10/03/40/diver-79948_1280.jpg",
+    "description": "Eight-armed and incredibly smart, capable of camouflage and problem-solving."
+  },
+  {
+    "id": 6,
+    "name": "Starfish",
+    "category": "Echinoderm",
+    "image_url": "https://cdn.pixabay.com/photo/2016/11/22/23/53/starfish-1851289_1280.jpg",
+    "description": "Radiating arms and the ability to regenerate lost limbs make them unique."
+  },
+  {
+    "id": 7,
+    "name": "Jellyfish",
+    "category": "Cnidarian",
+    "image_url": "https://cdn.pixabay.com/photo/2016/03/27/19/40/ocean-1283926_1280.jpg",
+    "description": "Graceful but dangerous, jellyfish float with pulsating movements."
+  },
+  {
+    "id": 8,
+    "name": "Seahorse",
+    "category": "Fish",
+    "image_url": "https://cdn.pixabay.com/photo/2020/01/15/18/19/seahorse-4768599_1280.jpg",
+    "description": "Small upright-swimming creatures known for their curled tails and unique shape."
+  },
+  {
+    "id": 9,
+    "name": "Sea Lion",
+    "category": "Mammal",
+    "image_url": "https://cdn.pixabay.com/photo/2016/09/05/15/40/sea-lion-1646863_1280.jpg",
+    "description": "Playful and vocal marine mammals often seen basking on rocky shores."
+  },
+  {
+    "id": 10,
+    "name": "Lobster",
+    "category": "Crustacean",
+    "image_url": "https://cdn.pixabay.com/photo/2016/10/01/15/15/diving-1707742_1280.jpg",
+    "description": "Hard-shelled ocean bottom dwellers with strong claws and segmented bodies."
+  },
+  {
+    "id": 11,
+    "name": "Manta Ray",
+    "category": "Cartilaginous Fish",
+    "image_url": "https://cdn.pixabay.com/photo/2016/09/02/18/14/manta-1639965_1280.jpg",
+    "description": "Gentle giants of the sea, known for their graceful gliding through deep waters."
+  },
+  {
+    "id": 12,
+    "name": "Moray Eel",
+    "category": "Fish",
+    "image_url": "https://cdn.pixabay.com/photo/2013/12/17/20/11/moray-230017_1280.jpg",
+    "description": "Long, snake-like predators that lurk in coral crevices and ambush prey."
+  },
+  {
+    "id": 13,
+    "name": "Crab",
+    "category": "Crustacean",
+    "image_url": "https://cdn.pixabay.com/photo/2023/03/21/10/30/crab-7866915_1280.jpg",
+    "description": "Side-walking scavengers with strong pincers and a protective shell."
+  },
+  {
+    "id": 14,
+    "name": "Sea Urchin",
+    "category": "Echinoderm",
+    "image_url": "https://cdn.pixabay.com/photo/2016/07/23/13/00/sea-urchin-1536812_1280.jpg",
+    "description": "Spiny sea creatures that play an important role in reef ecosystems."
+  },
+  {
+    "id": 15,
+    "name": "Orca (Killer Whale)",
+    "category": "Mammal",
+    "image_url": "https://cdn.pixabay.com/photo/2017/06/23/09/22/orca-2434070_1280.jpg",
+    "description": "Powerful predators and social creatures, famous for their intelligence and teamwork."
+  },
+  {
+    "id": 16,
+    "name": "Sea Cucumber",
+    "category": "Echinoderm",
+    "image_url": "https://www.tetiaroasociety.org/sites/default/files/2019-05/sea%20cucumber4.jpg",
+    "description": "Soft-bodied and slow-moving, they help clean the seafloor naturally."
+  },
+  {
+    "id": 17,
+    "name": "Barracuda",
+    "category": "Fish",
+    "image_url": "https://cdn.pixabay.com/photo/2022/04/05/13/39/barracuda-7113619_1280.jpg",
+    "description": "Fast, fierce predators with a torpedo-like body and sharp teeth."
+  },
+  {
+    "id": 18,
+    "name": "Squid",
+    "category": "Cephalopod",
+    "image_url": "https://cdn.pixabay.com/photo/2013/04/07/01/17/squid-101375_1280.jpg",
+    "description": "Masters of jet propulsion and camouflage, with long tentacles and big eyes."
+  },
+  {
+    "id": 19,
+    "name": "Anglerfish",
+    "category": "Fish",
+    "image_url": "https://media.istockphoto.com/id/521618531/photo/ancient-angler-fish.jpg?b=1&s=612x612&w=0&k=20&c=WhFh0IGIhtDgF8aZ-ZLgMPXYs8nrJ6exW9ku23g5zPk=",
+    "description": "Deep-sea dwellers with a glowing lure to attract prey in the dark ocean depths."
+  },
+  {
+    "id": 20,
+    "name": "Beluga Whale",
+    "category": "Mammal",
+    "image_url": "https://images.pexels.com/photos/4666753/pexels-photo-4666753.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Friendly white whales known as 'sea canaries' due to their melodic vocalizations."
+  },
+  {
+    "id": 21,
+    "name": "Sea Otter",
+    "category": "Mammal",
+    "image_url": "https://images.pexels.com/photos/16171084/pexels-photo-16171084/free-photo-of-otter-lying-on-rocks.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Playful sea mammals known for floating on their backs and using tools to open shells."
+  },
+  {
+    "id": 22,
+    "name": "Humpback Whale",
+    "category": "Mammal",
+    "image_url": "https://images.pexels.com/photos/51964/humpback-whale-natural-spectacle-nature-mammal-51964.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Massive ocean wanderers known for breaching and melodic songs echoing through the sea."
+  },
+  {
+    "id": 23,
+    "name": "Hammerhead Shark",
+    "category": "Cartilaginous Fish",
+    "image_url": "https://images.pexels.com/photos/4781942/pexels-photo-4781942.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Easily recognized by their hammer-shaped heads, enhancing their sensory range."
+  },
+  {
+    "id": 24,
+    "name": "Sea Snake",
+    "category": "Reptile",
+    "image_url": "https://images.pexels.com/photos/6200064/pexels-photo-6200064.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Highly venomous marine reptiles with paddle-like tails for swimming."
+  },
+  {
+    "id": 25,
+    "name": "Coral",
+    "category": "Cnidarian",
+    "image_url": "https://images.pexels.com/photos/920161/pexels-photo-920161.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Not just colorful rocks—corals are living animals that build vibrant reef ecosystems."
+  },
+  {
+    "id": 26,
+    "name": "Sea Horse",
+    "category": "Fish",
+    "image_url": "https://images.pexels.com/photos/7868382/pexels-photo-7868382.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Gentle swimmers with curled tails, known for the male carrying the babies."
+  },
+  {
+    "id": 27,
+    "name": "Nudibranch",
+    "category": "Mollusk",
+    "image_url": "https://images.pexels.com/photos/29672972/pexels-photo-29672972/free-photo-of-vibrant-nudibranch-captured-in-macro-underwater-photography.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Colorful sea slugs with stunning patterns found on coral reefs."
+  },
+  {
+    "id": 28,
+    "name": "Manatee",
+    "category": "Mammal",
+    "image_url": "https://images.pexels.com/photos/8026836/pexels-photo-8026836.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Gentle herbivores called 'sea cows', slowly grazing in warm coastal waters."
+  },
+  {
+    "id": 29,
+    "name": "Pufferfish",
+    "category": "Fish",
+    "image_url": "https://images.pexels.com/photos/3358137/pexels-photo-3358137.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Inflates like a balloon when threatened, and some species are highly toxic."
+  },
+  {
+    "id": 30,
+    "name": "Sea Pen",
+    "category": "Cnidarian",
+    "image_url": "https://images.pexels.com/photos/1112007/pexels-photo-1112007.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Feather-like colonial animals anchored in soft seabeds, glowing under UV light."
+  },
+  
+  {
+    "id": 31,
+    "name": "Electric Eel",
+    "category": "Fish",
+    "image_url": "https://images.pexels.com/photos/8018969/pexels-photo-8018969.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "A powerful eel capable of generating electric shocks to navigate and hunt."
+  },
+  {
+    "id": 32,
+    "name": "Leafy Seadragon",
+    "category": "Fish",
+    "image_url": "https://images.pexels.com/photos/8827304/pexels-photo-8827304.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Delicate creatures with leaf-like fins that offer perfect underwater camouflage."
+  },
+  {
+    "id": 33,
+    "name": "Giant Isopod",
+    "category": "Crustacean",
+    "image_url": "https://images.pexels.com/photos/13816702/pexels-photo-13816702.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Deep-sea scavengers resembling oversized pillbugs with armored shells."
+  },
+  {
+    "id": 34,
+    "name": "Blue Ringed Octopus",
+    "category": "Cephalopod",
+    "image_url": "https://images.pexels.com/photos/11752412/pexels-photo-11752412.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Small but extremely venomous, known for its glowing blue rings."
+  },
+  {
+    "id": 35,
+    "name": "Giant Squid",
+    "category": "Cephalopod",
+    "image_url": "https://images.pexels.com/photos/11752411/pexels-photo-11752411.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Elusive deep-sea giants with enormous tentacles and mysterious behavior."
+  },
+  {
+    "id": 36,
+    "name": "Sunfish (Mola Mola)",
+    "category": "Fish",
+    "image_url": "https://images.pexels.com/photos/4781939/pexels-photo-4781939.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Massive ocean drifters with a flat body and calm, gentle nature."
+  },
+  {
+    "id": 37,
+    "name": "Ribbon Eel",
+    "category": "Fish",
+    "image_url": "https://images.pexels.com/photos/4731320/pexels-photo-4731320.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Vibrant blue and yellow eels known for their striking ribbon-like bodies."
+  },
+  {
+    "id": 38,
+    "name": "Sea Angel",
+    "category": "Mollusk",
+    "image_url": "https://images.pexels.com/photos/4731347/pexels-photo-4731347.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Transparent, winged sea slugs that glide gracefully through icy waters."
+  },
+  {
+    "id": 39,
+    "name": "Goblin Shark",
+    "category": "Cartilaginous Fish",
+    "image_url": "https://images.pexels.com/photos/4781937/pexels-photo-4781937.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "A rare deep-sea shark with a long snout and extendable jaws."
+  },
+  {
+    "id": 40,
+    "name": "Flying Fish",
+    "category": "Fish",
+    "image_url": "https://images.pexels.com/photos/4731321/pexels-photo-4731321.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Known for gliding above the ocean surface with wing-like fins."
+  },
+  {
+    "id": 41,
+    "name": "Sea Spider",
+    "category": "Arthropod",
+    "image_url": "https://images.pexels.com/photos/15191323/pexels-photo-15191323.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Creepy-cool creatures with long legs and small bodies living in icy waters."
+  },
+
+  {
+    "id": 42,
+    "name": "Whale Shark",
+    "category": "Fish",
+    "image_url": "https://images.pexels.com/photos/37351/shark-whale-gentle-giant.jpg?auto=compress&cs=tinysrgb&w=600",
+    "description": "The largest fish in the ocean, gentle filter-feeders covered in white spots."
+  },
+  {
+    "id": 43,
+    "name": "Portuguese Man O' War",
+    "category": "Cnidarian",
+    "image_url": "https://images.pexels.com/photos/9665646/pexels-photo-9665646.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "A floating colony of organisms with venomous tentacles."
+  },
+  {
+    "id": 44,
+    "name": "Sea Hare",
+    "category": "Mollusk",
+    "image_url": "https://images.pexels.com/photos/14789536/pexels-photo-14789536.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Soft, slow-moving herbivores that release purple ink when threatened."
+  },
+  {
+    "id": 45,
+    "name": "Batfish",
+    "category": "Fish",
+    "image_url": "https://images.pexels.com/photos/4731317/pexels-photo-4731317.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Odd-shaped, bottom-dwelling fish that ‘walk’ on the seafloor."
+  },
+  {
+    "id": 46,
+    "name": "Water Flea",
+    "category": "Crustacean",
+    "image_url": "https://images.pexels.com/photos/14808381/pexels-photo-14808381.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Tiny plankton-like critters essential for freshwater ecosystems."
+  },
+  {
+    "id": 47,
+    "name": "Sea Gooseberry",
+    "category": "Ctenophore",
+    "image_url": "https://images.pexels.com/photos/11586420/pexels-photo-11586420.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Transparent jelly-like creatures with glowing comb-like rows."
+  },
+  {
+    "id": 48,
+    "name": "Blacktip Shark",
+    "category": "Cartilaginous Fish",
+    "image_url": "https://images.pexels.com/photos/772384/pexels-photo-772384.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Fast, agile reef sharks known for black-tipped fins."
+  },
+  {
+    "id": 49,
+    "name": "Sea Moth",
+    "category": "Fish",
+    "image_url": "https://images.pexels.com/photos/14789537/pexels-photo-14789537.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Small armored fish with wing-like fins that mimic the seafloor."
+  },
+  {
+    "id": 50,
+    "name": "Horseshoe Crab",
+    "category": "Arthropod",
+    "image_url": "https://images.pexels.com/photos/14808378/pexels-photo-14808378.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Ancient marine creatures known for their blue blood and hard shells."
+  },
+  {
+    "id": 51,
+    "name": "Cookiecutter Shark",
+    "category": "Fish",
+    "image_url": "https://images.pexels.com/photos/4781944/pexels-photo-4781944.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Small sharks that take perfectly round bites out of larger animals."
+  },
+  {
+    "id": 52,
+    "name": "Cuttlefish",
+    "category": "Cephalopod",
+    "image_url": "https://images.pexels.com/photos/14789538/pexels-photo-14789538.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Masters of color change with expressive eyes and floating movements."
+  },
+  {
+    "id": 53,
+    "name": "Arctic Char",
+    "category": "Fish",
+    "image_url": "https://images.pexels.com/photos/13759012/pexels-photo-13759012.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Cold-water fish with shimmering pink-orange bodies."
+  },
+  {
+    "id": 54,
+    "name": "Oarfish",
+    "category": "Fish",
+    "image_url": "https://images.pexels.com/photos/15191329/pexels-photo-15191329.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Long ribbon-like fish believed to be the origin of sea serpent legends."
+  },
+  {
+    "id": 55,
+    "name": "Frogfish",
+    "category": "Fish",
+    "image_url": "https://images.pexels.com/photos/14789533/pexels-photo-14789533.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Strange ambush predators that blend perfectly into corals."
+  },
+  {
+    "id": 56,
+    "name": "Sea Whip",
+    "category": "Coral",
+    "image_url": "https://images.pexels.com/photos/4731341/pexels-photo-4731341.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Graceful, whip-like corals swaying with underwater currents."
+  },
+  {
+    "id": 57,
+    "name": "Box Jellyfish",
+    "category": "Cnidarian",
+    "image_url": "https://images.pexels.com/photos/9665645/pexels-photo-9665645.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "One of the most venomous sea creatures with transparent cube-shaped bodies."
+  },
+  {
+    "id": 58,
+    "name": "Stingray",
+    "category": "Cartilaginous Fish",
+    "image_url": "https://images.pexels.com/photos/37351/shark-whale-gentle-giant.jpg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Flat-bodied ocean gliders with a sharp defensive tail spine."
+  },
+  {
+    "id": 59,
+    "name": "Copepod",
+    "category": "Crustacean",
+    "image_url": "https://images.pexels.com/photos/14808380/pexels-photo-14808380.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Tiny plankton species forming the base of many ocean food chains."
+  }
+]

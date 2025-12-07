@@ -169,4 +169,13 @@ if ("IntersectionObserver" in window) {
   });
 }
 
-console.log("🌊 AquaLumi Aquarium Website Loaded Successfully!");
+console.log(" AquaLumi Aquarium Website Loaded Successfully!");
+
+
+
+
+
+
+
+
+
